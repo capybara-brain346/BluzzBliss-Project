@@ -3,7 +3,7 @@ compatibility_date = "2024-09-09"
 # compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMzhlMjc3YzEtYTU5Yy00MGRjLWE2M2YtY2ZiMTg0NmZlMzY2IiwidGVuYW50X2lkIjoiOGMxMjRjMTk1MGMzN2RhYjg4YzZmMzkzNGQzYzk1OGMwMmM4ZGRiNDMwNjZiY2Y2YzJkOTRkMTU0ZGM4NGFiYSIsImludGVybmFsX3NlY3JldCI6ImU1YzcyZmExLTRmNTctNDVlMC1iNjFlLTZmMzA2MjhjMzM2OSJ9.FnNKYuJ-syvGjcon4wj7zME89sCRvwLGqzxwVhDaLqk"
+DATABASE_URL="URL accelerate"
 JWT_SECRET = "mysceret"
 
 
