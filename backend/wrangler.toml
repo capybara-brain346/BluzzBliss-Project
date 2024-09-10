@@ -3,8 +3,13 @@ compatibility_date = "2024-09-09"
 # compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
+<<<<<<< HEAD
 DATABASE_URL="URL accelerate"
 JWT_SECRET = "mysceret"
+=======
+DATABASE_URL=""
+JWT_SECRET = ""
+>>>>>>> f56a8fd (added the vercel json)
 
 
 
